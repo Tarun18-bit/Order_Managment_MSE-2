@@ -1,0 +1,6 @@
+com\student\student_managment\service\StudentService.class
+com\student\student_managment\StudentManagmentApplication.class
+com\student\student_managment\controller\StudentController.class
+com\student\student_managment\entity\Student.class
+com\student\student_managment\controller\UpdateScoresSkillsRequest.class
+com\student\student_managment\repository\StudentRepository.class
